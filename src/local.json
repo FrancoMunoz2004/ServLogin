@@ -1,0 +1,1 @@
+[{"user":"franco","password":"789456","roles":"empleado","permiso":["Empresa1"]},{"user":"franco","password":"12345","roles":"admin","permiso":["Empresa"]},{"user":"Franco Muñoz","password":"123456","roles":"empleado","permisos":["Empresa1","Empresa3","Empresa2"]}]

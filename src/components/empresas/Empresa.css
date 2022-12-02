@@ -1,0 +1,57 @@
+.Convertidor{
+    font-family:Arial, Helvetica, sans-serif;
+    width: 370px;
+    height: auto;
+    color: rgb(0, 0, 0);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 50px 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px ;
+    background: rgb(255, 255, 255);
+}
+
+header{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:rgb(64, 143, 112);
+    color: rgb(255, 255, 255);
+}
+
+  .label{
+    display:flex;
+    margin-bottom:10px;
+  }
+select{
+    text-align: center;
+}
+button{
+    border: none;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:auto;
+    
+    width: 50%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    outline: none;
+    height: 40px;
+    background-color:rgb(64, 143, 112);
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    border-radius: 20px;
+  }
+  
+ button:hover {
+    cursor: pointer;
+    background-color:rgb(53, 117, 91);
+    transition: 0.1s ease-in-out;
+  }
+  p{
+    color: black;
+    text-align: center;
+  }
